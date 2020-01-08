@@ -1,2 +1,2 @@
 # grafika-EA
-grafika | számítógépes grafika | számgraf
+fájlok forrása: http://cg.elte.hu/~hajder/
